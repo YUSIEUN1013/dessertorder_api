@@ -1,0 +1,8 @@
+com/example/msa_test_api/repository/JpaDessertRepository.class
+com/example/msa_test_api/controller/DessertController.class
+com/example/msa_test_api/controller/DessertForm.class
+com/example/msa_test_api/SpringConfig.class
+com/example/msa_test_api/service/DessertService.class
+com/example/msa_test_api/MsaTestApiApplication.class
+com/example/msa_test_api/domain/Dessert.class
+com/example/msa_test_api/repository/DessertRepository.class
